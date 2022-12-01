@@ -7,7 +7,7 @@ body {
 
 .container_flex {
   display: flex;
-  background-color: #ffffff;
+  background-color: #fff;
   height: auto;
   width: 375px;
 }
@@ -18,7 +18,7 @@ body {
 #span1 {
   width: 76px;
   height: 20px;
-  font-family: Poppins ;
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -33,7 +33,7 @@ body {
 h2 { 
   width: 327px;
   height: 150px;
-  font-family: Poppins ;
+  font-family: Poppins, sans-serif; ;
   font-style: normal;
   font-weight: 700;
   font-size:40px; 
@@ -48,7 +48,7 @@ h2 {
 p {
   width: 327px;
   height: 146px;
-  font-family: Poppins ;
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -62,7 +62,7 @@ p {
 #span2 {
   width: 117px;
   height: 24px;
-  font-family: Poppins ;
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
