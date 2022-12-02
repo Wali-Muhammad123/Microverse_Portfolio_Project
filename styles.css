@@ -3,6 +3,7 @@ body {
   width: 375px;
   margin: 0 auto;
   background: url(assets/jj.svg) center / contain no-repeat;
+  background-color: #f7f7f9;
 }
 
 .container_flex {
@@ -75,4 +76,126 @@ p {
 .image_pos {
   margin-left: 20px;
   margin-top: 15px;
+}
+.card{
+    background-color: #fff;
+    width: 327px;
+    height: 552px;
+    margin-top: 50px;
+    margin-left: 20px;
+    border-radius: 16px;
+}
+h3{
+  width: 295px;
+  height: 36px;
+  font-family: Poppins, sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 44px;
+  color: #172b4d;
+}
+.span3{
+  width: 55px;
+  height: 16px;
+  font-family: Poppins, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 16px;
+
+}
+ul{
+  list-style-type: circle;
+  display: flex;
+}
+.span4{
+  width: 88pc;
+  height: 16px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600px;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+
+}
+.span5{
+  width:29px;
+  height: 16px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+  color: #7a869a;
+}
+.card_p{
+  width: 295px;
+  height: 76px;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  color: #344563;
+}
+.span6{
+      align-items: center;
+      border-radius: 8px;
+      background-color: #ebebff;
+      width: 53px;
+      height: 24px;
+      padding: 4px 12px;
+      font-family: Poppins, sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      line-height: 13px;
+      letter-spacing: 0.03em;
+      color: #6070ff;
+}
+.span7{
+      align-items: center;
+      border-radius: 8px;
+      background-color: #ebebff;
+      font-family: Poppins, sans-serif;
+      font-size: 12px;
+      line-height: 13px;
+      font-weight: 500;
+      letter-spacing: 0.03em;
+      color: #6070ff;
+      width: 45px;
+      height: 24px;
+      padding: 4px 12px 4px 12px;
+}
+.span8{
+  align-items: center;
+  border-radius: 8px;
+  background-color: #ebebff;
+  font-size: 12px;
+  font-family: Poppins, sans-serif;
+  line-height: 13px ;
+  font-weight: 500px;
+  color: #6070ff;
+  width: 89px;
+  height: 24px;
+  padding: 4px 12px;
+  letter-spacing: 0.03em;
+}
+.button1{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 124px;
+  height: 48px;
+  border: 1px solid #6070ff;
+  border-radius: 8px;
+}
+.button_span{
+  width: 100px;
+  height: 24px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 24px;
+  text-align: center;
+  color: #396df2;
+  letter-spacing: 0.03em;
+  font-style: normal;
 }
